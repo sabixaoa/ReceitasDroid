@@ -1,1 +1,1 @@
-ReceitasDroid
+DroidReceitas
